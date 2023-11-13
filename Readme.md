@@ -5,3 +5,4 @@ teste de repositorio
 *uso do comando Restore
 
 *comando git pull
+*comando git fetch
