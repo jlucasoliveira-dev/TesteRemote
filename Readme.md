@@ -3,3 +3,5 @@ teste de repositorio
 ## test 3
 
 *uso do comando Restore
+
+*comando git pull
